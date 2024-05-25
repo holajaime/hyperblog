@@ -1,6 +1,7 @@
 Esta es la historia de Jaimito
 
-Un hombre que intenta aprender a programar
-Tambien intenta aprender a analizar bases de datos
+Un hombre que intenta aprender a programar Python
+Tambien intenta aprender a analizar 
+3 bases de datos
 
 Hoy hablaremos de su historia
